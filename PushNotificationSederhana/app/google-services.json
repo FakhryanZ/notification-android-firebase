@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "746701960664",
+    "firebase_url": "https://android-pushnotification-f1c90.firebaseio.com",
+    "project_id": "android-pushnotification-f1c90",
+    "storage_bucket": "android-pushnotification-f1c90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746701960664:android:1aff31ea9925293fd36ead",
+        "android_client_info": {
+          "package_name": "polinema.ac.id.pushnotificationsederhana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746701960664-rurmic8jm1mqtha3vui2091eqpo9q01a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "polinema.ac.id.pushnotificationsederhana",
+            "certificate_hash": "12cfeaa16db5ab3e0295ce9d8f4465a210d5aa6b"
+          }
+        },
+        {
+          "client_id": "746701960664-b5q1c9gmb3oabd8g2mes3vqgemmci3do.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcrGe4IQiW0bvD1MDxItpguzXnEJKS6HM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746701960664-b5q1c9gmb3oabd8g2mes3vqgemmci3do.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
